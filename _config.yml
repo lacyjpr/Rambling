@@ -6,4 +6,8 @@ description: Travels and tribulations of a rambling meandering old man
 
 show_excerpts: true # set to false to remove excerpts on the homepage
 
+<<<<<<< HEAD
 theme: minima
+=======
+theme: jekyll-theme-cayman
+>>>>>>> c2ceae1b4b6b532ac5749c948c1ecc09739eb5f8
