@@ -1,5 +1,4 @@
 ---
-title: "Welcome to my blog"
+title: "Rambling"
 ---
-
-I'm glad you are here. I plan to talk about ...
+Rambling meandering old man.
